@@ -8,7 +8,7 @@ Tecnologias utilizadas
 - MongoDB
 
 nesse projeto foi implementado a tecnologia usando serverless para criar APIs
-- implmentando função post
-- implmentando função get
-- implmentando função update
-- implmentando função delete
+- implementando função post
+- implementando função get
+- implementando função update
+- implementando função delete
